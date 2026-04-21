@@ -1,2 +1,2 @@
 # George-Washington-Carver
-Envecon 153 Project 4
+Our project focuses on Nigeria and the 6 different counties associated.....
